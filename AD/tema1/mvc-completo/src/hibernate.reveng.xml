@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="prg1314finalgrupo1"/>
+  <table-filter match-name="Configura"/>
+  <table-filter match-name="Pedido"/>
+  <table-filter match-name="Linea"/>
+  <table-filter match-name="Cliente"/>
+  <table-filter match-name="Producto"/>
+</hibernate-reverse-engineering>

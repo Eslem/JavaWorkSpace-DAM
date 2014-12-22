@@ -1,0 +1,26 @@
+<list>
+  <DatosPersona>
+    <id>1</id>
+    <nombre>Loren</nombre>
+    <apellidos>Dias</apellidos>
+    <edad>38</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <id>2</id>
+    <nombre>Pepin</nombre>
+    <apellidos>Nieto</apellidos>
+    <edad>20</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <id>3</id>
+    <nombre>Angel</nombre>
+    <apellidos>Nieto</apellidos>
+    <edad>50</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <id>4</id>
+    <nombre>Eslem</nombre>
+    <apellidos>alzate</apellidos>
+    <edad>20</edad>
+  </DatosPersona>
+</list>

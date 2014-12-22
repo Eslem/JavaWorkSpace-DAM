@@ -1,0 +1,3 @@
+12-22 21:41:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ALUMNO" not found; SQL statement:
+SELECT	*	FROM	alumno [42102-176]

@@ -1,0 +1,26 @@
+<list>
+  <alumno>
+    <id>1</id>
+    <nombre>Loren</nombre>
+    <apellidos>Dias</apellidos>
+    <edad>38</edad>
+  </alumno>
+  <alumno>
+    <id>2</id>
+    <nombre>Pepin</nombre>
+    <apellidos>Nieto</apellidos>
+    <edad>20</edad>
+  </alumno>
+  <alumno>
+    <id>3</id>
+    <nombre>Angel</nombre>
+    <apellidos>Nieto</apellidos>
+    <edad>50</edad>
+  </alumno>
+  <alumno>
+    <id>4</id>
+    <nombre>Eslem</nombre>
+    <apellidos>alzate</apellidos>
+    <edad>20</edad>
+  </alumno>
+</list>

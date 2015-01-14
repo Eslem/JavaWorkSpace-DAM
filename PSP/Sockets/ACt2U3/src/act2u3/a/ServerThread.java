@@ -39,7 +39,7 @@ public class ServerThread extends Thread {
             DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
             BufferedReader is = null;
 
-            dos.writeChars("Hola cliente numero "+clientNumber);
+            dos.writeUTF("Hola cliente numero "+clientNumber);
 
             //No sabia si cerraba el socket o esperaba asi que he dejado el socket abierto esperando mensajes
             while (active) {
